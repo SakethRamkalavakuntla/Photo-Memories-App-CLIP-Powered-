@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+faiss-cpu
+opencv-python
+pillow
